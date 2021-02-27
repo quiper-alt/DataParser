@@ -1,0 +1,6 @@
+C:\Games\Rider\DataReaderProject\DataReaderProject\bin\Debug\DataReaderProject.exe
+C:\Games\Rider\DataReaderProject\DataReaderProject\bin\Debug\DataReaderProject.pdb
+C:\Games\Rider\DataReaderProject\DataReaderProject\obj\Debug\DataReaderProject.csprojAssemblyReference.cache
+C:\Games\Rider\DataReaderProject\DataReaderProject\obj\Debug\DataReaderProject.csproj.CoreCompileInputs.cache
+C:\Games\Rider\DataReaderProject\DataReaderProject\obj\Debug\DataReaderProject.exe
+C:\Games\Rider\DataReaderProject\DataReaderProject\obj\Debug\DataReaderProject.pdb
